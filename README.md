@@ -1,7 +1,8 @@
 <!-- 🌐 Modern 3D-Style GitHub README by Kaustubh Gadhave -->
 
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&pause=1000&color=00F0FF&center=true&vCenter=true&width=500&lines=Hey+👋+I'm+Kaustubh+Gadhave;Backend+%26+AI+Engineer;Builder+of+Eatright+🚀;Tech+%7C+Security+%7C+Startups+%7C+Cars" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&pause=1000&color=00F0FF&center=true&vCenter=true&width=800&lines=HEY+👋+I'M+KAUSTUBH+GADHAVE;BACKEND+%26+AI+ENGINEER;TECH+%7C+SECURITY+%7C+AI+%7C+STARTUPS+%7C+CARS" alt="Typing SVG" />
+
 </h1>
 
 
@@ -112,7 +113,7 @@ interests: Tech, Cars, Security, Growth
     <td width="50%" valign="top">
     
 ### 🔐 Secured Django REST API  
-<img src="https://img.shields.io/badge/Django-REST-API-ffcc00?style=for-the-badge"/>  
+<img src="https://img.shields.io/badge/Django-REST-API-ffcc00?style=for-the-badge](https://img.shields.io/badge/Django%20REST%20Framework-092E20?style=for-the-badge&logo=django&logoColor=white"/>  
 <img src="https://img.shields.io/badge/JWT-Secured-green?style=for-the-badge"/>  
 
 > 🔐 JWT-secured reusable REST template  

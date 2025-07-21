@@ -79,3 +79,34 @@ interests: Tech, Cars, Security, Growth
 <p align="center">
   <b>“Execution beats perfection — Always ship fast.”</b>
 </p>
+
+### 🚀 Featured Projects
+
+#### 🧠 Eatright
+> An AI-powered food recommendation chatbot.
+- Built on Django with WebSocket support for real-time interactions.
+- Integrated with LangChain and an on-machine LLM model.
+- Every chat is stored and used in a RAG pipeline to give context-aware recommendations.
+
+#### 🛡️ DeepShield
+> A computer vision project that detects and prevents deepfake attacks.
+- Designed for high-security environments like banks and government agencies.
+- Focuses on facial forgery detection to ensure official integrity.
+
+#### 🎮 2D Car Game
+> My first project at the age of 15!
+- Built using Python and Pygame.
+- Player chases a car using arrow keys with increasing difficulty levels.
+- Assets include roads, cars, and custom backgrounds.
+
+#### 🔐 Secured Django REST API
+> A reusable RESTful API template.
+- Features full JWT authentication and role-based access control.
+- Suitable for CRUD operations across various projects.
+
+---
+
+### 🏆 Achievements
+
+- ✅ Solved **400+ problems on LeetCode**
+- 🥈 **2× Hackathon Finalist**

@@ -96,7 +96,7 @@ interests: Tech, Cars, Security, Growth
 ## 🚀 Tech Stack & Tools
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,django,flask,fastapi,postgres,redis,kafka,git,linux,gcp,aws,pytorch,js,html,css" />
+  <img src="https://skillicons.dev/icons?i=python,java,django,flask,fastapi,postgres,mysql,redis,kafka,git,linux,gcp,aws,pytorch,js,html,CSS,bootstrap" />
 </p>
 
 ---
@@ -110,7 +110,7 @@ interests: Tech, Cars, Security, Growth
       
 ### 🧠 Eatright  
 <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white"/>  
-<img src="https://img.shields.io/badge/LangChain-1A1A1A?style=for-the-badge&logo=OpenAI&logoColor=white"/>  
+<img src="https://img.shields.io/badge/LangChain-1A1A1A?style=for-the-badge&logo=langchain&logoColor=white"/>  
 
 > 💬 **AI-powered food chatbot** built with Django, WebSocket, and LangChain  
 > 🧠 On-machine LLM model for recommendations  
@@ -122,7 +122,7 @@ interests: Tech, Cars, Security, Growth
     
 ### 🛡️ DeepShield  
 <img src="https://img.shields.io/badge/OpenCV-27338e?style=for-the-badge&logo=opencv&logoColor=white"/>  
-<img src="https://img.shields.io/badge/Security-AI-critical-red?style=for-the-badge"/>  
+<img src="https://img.shields.io/badge/pytorch-black?style=for-the-badge&logo=pytorch&logoColor=red"/>  
 
 > 🧪 Detects and prevents deepfake attacks  
 > 🏛️ Designed for banks & government integrity  
@@ -136,7 +136,7 @@ interests: Tech, Cars, Security, Growth
     <td width="50%" valign="top">
     
 ### 🎮 2D Car Game  
-<img src="https://img.shields.io/badge/Pygame-1e1e1e?style=for-the-badge&logo=python&logoColor=white"/>  
+<img src="https://img.shields.io/badge/Pygame-1e1e1e?style=for-the-badge&logo=pygame&logoColor=white"/>  
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>  
 
 > 🚗 My first ever game at age 15  
@@ -148,8 +148,8 @@ interests: Tech, Cars, Security, Growth
     <td width="50%" valign="top">
     
 ### 🔐 Secured Django REST API  
-<img src="https://img.shields.io/badge/Django-REST-API-ffcc00?style=for-the-badge](https://img.shields.io/badge/Django%20REST%20Framework-092E20?style=for-the-badge&logo=django&logoColor=white"/>  
-<img src="https://img.shields.io/badge/JWT-Secured-green?style=for-the-badge"/>  
+<img src="https://img.shields.io/badge/Django%20REST%20Framework-092E20?style=for-the-badge&logo=django&logoColor=white"/>  
+<img src="https://img.shields.io/badge/JWT-green?style=for-the-badge&logo=JWT&logoColor=white"/>  
 
 > 🔐 JWT-secured reusable REST template  
 > 🔁 Supports CRUD operations out-of-the-box  

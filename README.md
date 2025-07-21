@@ -32,6 +32,9 @@
   <a href="https://www.youtube.com/c/byte_overload" target="_blank"><img src="https://img.shields.io/badge/YouTube-%23FF0000.svg?style=flat&logo=youtube&logoColor=white" height="30" /></a>
   <a href="https://www.hackerrank.com/kaustubh_backend" target="_blank"><img src="https://img.shields.io/badge/HackerRank-%232EC866.svg?style=flat&logo=HackerRank&logoColor=white" height="30" /></a>
   <a href="https://leetcode.com/kaustubh_64" target="_blank"><img src="https://img.shields.io/badge/LeetCode-%23FFA116.svg?style=flat&logo=leetcode&logoColor=black" height="30" /></a>
+  <a href="https://www.reddit.com/user/Legendary_Outrage/" target="_blank">
+    <img src="https://img.shields.io/badge/Reddit-%23FF4500.svg?style=flat&logo=reddit&logoColor=white" height="30" />
+  </a>
 </p>
 
 ---

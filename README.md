@@ -1,16 +1,17 @@
-## Hi there 👋
+# 👋 Hi, I'm Kaustubh Gadhave
 
-<!--
-**kaustubh-alt/kaustubh-alt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Final-year Computer Engineering Student  
+💻 Python | Django | AI | Backend | Data Science  
+🚀 Building awesome tech at [GlowMinds](https://github.com/yourstartup)
 
-Here are some ideas to get you started:
+## 🚧 Projects
+- 🔗 [Netflix-like Streaming App](https://github.com/kaustubhgadhave/netflix-streaming-app)  
+- 📊 [IPL Data Analytics](https://github.com/kaustubhgadhave/ipl-analytics)  
+- 🏁 [Drift Amazing - Gaming Channel](https://youtube.com/@driftamazing)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📈 GitHub Stats
+![Kaustubh's GitHub stats](https://github-readme-stats.vercel.app/api?username=kaustubhgadhave&show_icons=true&theme=radical)
+
+## 📫 Connect with me
+- LinkedIn: [linkedin.com/in/kaustubhgadhave](https://linkedin.com/in/kaustubhgadhave)
+- Email: kaustubh@example.com

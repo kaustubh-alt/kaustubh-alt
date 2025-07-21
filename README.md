@@ -8,9 +8,7 @@
 
 
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=kaustubh-alt&theme=dracula&no-bg=true&no-frame=true&title=Stars,Commits,Repositories,PullRequest,Issues" />
-</p>
+<div align="center"> <table> <tr> <td><img src="https://raw.githubusercontent.com/kautubh-alt/kautubh-alt/main/badges/2024-50.gif" width="150" /></td> <td><img src="https://raw.githubusercontent.com/kautubh-alt/kautubh-alt/main/badges/2024-100-new.gif" width="150" /></td> <td><img src="https://raw.githubusercontent.com/kautubh-alt/kautubh-alt/main/badges/2024-200.gif" width="150" /></td> </tr> <tr> <td><img src="https://raw.githubusercontent.com/kautubh-alt/kautubh-alt/main/badges/2550.gif" width="150" /></td> <td><img src="https://raw.githubusercontent.com/kautubh-alt/kautubh-alt/main/badges/LeetCode_75.gif" width="150" /></td> <td><img src="https://raw.githubusercontent.com/kautubh-alt/kautubh-alt/main/badges/Introduction_to_Pandas.gif" width="150" /></td> </tr> </table> </div>
 
 ---
 

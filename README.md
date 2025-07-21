@@ -86,12 +86,15 @@ interests: Tech, Cars, Security, Growth
   <a href="https://www.hackerrank.com/kaustubh_backend" target="_blank">
     <img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" />
   </a>
-  <a href="https://reddit.com/user/kaustubh-alt" target="_blank">
+<!--   <a href="https://reddit.com/user/kaustubh-alt" target="_blank">
     <img src="https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white" />
-  </a>
+  </a> -->
 </p>
 
 ---
+
+[![Kaustubh's GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=kaustubh-alt&theme=react-dark)](https://github.com/kaustubh-alt)
+
 
 ## 🚀 Tech Stack & Tools
 

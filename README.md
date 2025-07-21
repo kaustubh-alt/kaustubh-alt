@@ -8,7 +8,7 @@
 
 
 
-<div align="center"> <table> <tr> <td><img src="https://raw.githubusercontent.com/kautubh-alt/kautubh-alt/main/badges/2024-50.gif" width="150" /></td> <td><img src="https://raw.githubusercontent.com/kautubh-alt/kautubh-alt/main/badges/2024-100-new.gif" width="150" /></td> <td><img src="https://raw.githubusercontent.com/kautubh-alt/kautubh-alt/main/badges/2024-200.gif" width="150" /></td> </tr> <tr> <td><img src="https://raw.githubusercontent.com/kautubh-alt/kautubh-alt/main/badges/2550.gif" width="150" /></td> <td><img src="https://raw.githubusercontent.com/kautubh-alt/kautubh-alt/main/badges/LeetCode_75.gif" width="150" /></td> <td><img src="https://raw.githubusercontent.com/kautubh-alt/kautubh-alt/main/badges/Introduction_to_Pandas.gif" width="150" /></td> </tr> </table> </div>
+<div align="center"> <table> <tr> <td><img src="https://raw.githubusercontent.com/kaustubh-alt/kaustubh-alt/main/badges/2024-50.gif" width="150" /></td> <td><img src="https://raw.githubusercontent.com/kaustubh-alt/kaustubh-alt/main/badges/2024-100-new.gif" width="150" /></td> <td><img src="https://raw.githubusercontent.com/kaustubh-alt/kaustubh-alt/main/badges/2024-200.gif" width="150" /></td> <td><img src="https://raw.githubusercontent.com/kaustubh-alt/kaustubh-alt/main/badges/2550.gif" width="150" /></td> </tr> <tr> <td colspan="2"><img src="https://raw.githubusercontent.com/kaustubh-alt/kaustubh-alt/main/badges/LeetCode_75.gif" width="200" /></td> <td colspan="2"><img src="https://raw.githubusercontent.com/kaustubh-alt/kaustubh-alt/main/badges/Introduction_to_Pandas.gif" width="200" /></td> </tr> </table> </div>
 
 ---
 

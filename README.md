@@ -107,7 +107,7 @@ interests: Tech, Cars, Security, Growth
 > 🧩 Built using images like cars, roads, and more  
 <br>
 
-    </td>
+  </td>
     <td width="50%" valign="top">
     
 ### 🔐 Secured Django REST API  
@@ -119,14 +119,19 @@ interests: Tech, Cars, Security, Growth
 > 💼 Easily adaptable to multiple use cases  
 <br>
 
-    </td>
+  </td>
   </tr>
 </table>
 
 
 ---
 
-### 🏆 Achievements
+## 🏆 Achievements
 
-- ✅ Solved **400+ problems on LeetCode**
-- 🥈 **2× Hackathon Finalist**
+<div align="center">
+
+<img src="https://img.shields.io/badge/Solved%20400%2B%20Problems-FFD700?style=for-the-badge&logo=leetcode&logoColor=black" />
+<img src="https://img.shields.io/badge/2×%20Hackathon%20Finalist-FF69B4?style=for-the-badge&logo=devpost&logoColor=white" />
+
+</div>
+

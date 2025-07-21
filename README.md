@@ -86,7 +86,7 @@ interests: Tech, Cars, Security, Growth
   <a href="https://www.hackerrank.com/kaustubh_backend" target="_blank">
     <img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" />
   </a>
-  <a href="[https://reddit.com/user/kaustubh-alt](https://www.upwork.com/freelancers/~01a4d2a53ec0afeb36)" target="_blank">
+  <a href="https://www.upwork.com/freelancers/~01a4d2a53ec0afeb36" target="_blank">
     <img src="https://img.shields.io/badge/Upwork-black?style=for-the-badge&logo=upwork&logoColor=green" />
   </a>
 </p>

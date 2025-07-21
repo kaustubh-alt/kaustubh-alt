@@ -1,8 +1,9 @@
 <!-- 🌐 Modern 3D-Style GitHub README by Kaustubh Gadhave -->
 
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&pause=1000&color=00F0FF&center=true&vCenter=true&width=500&lines=Hey+👋+I'm+Kaustubh+Gadhave;Backend+%26+AI+Engineer;Builder+of+Eatright+🚀;Tech+%7C+Security+%7C+Startups+%7C+Cars" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&pause=1000&color=00F0FF&center=true&vCenter=true&width=500&lines=Hey+👋+I'm+Kaustubh+Gadhave;Backend+%26+AI+Engineer;Builder+of+Eatright+🚀;Tech+%7C+Security+%7C+Startups+%7C+Cars" alt="Typing SVG" />
 </h1>
+
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=kaustubh-alt&label=Profile+Views&color=00ffc8&style=flat-square" />
@@ -63,46 +64,65 @@ interests: Tech, Cars, Security, Growth
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=kaustubh-alt&show_icons=true&theme=tokyonight&border_radius=12&hide_title=true" width="49%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=kaustubh-alt&theme=tokyonight&border_radius=12" width="49%" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kaustubh-alt&layout=compact&theme=tokyonight&border_radius=12" width="60%" />
-</p>
-
----
-
-<p align="center">
-  <b>“Execution beats perfection — Always ship fast.”</b>
-</p>
 
 ### 🚀 Featured Projects
 
-#### 🧠 Eatright
-> An AI-powered food recommendation chatbot.
-- Built on Django with WebSocket support for real-time interactions.
-- Integrated with LangChain and an on-machine LLM model.
-- Every chat is stored and used in a RAG pipeline to give context-aware recommendations.
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      
+### 🧠 Eatright  
+<img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white"/>  
+<img src="https://img.shields.io/badge/LangChain-1A1A1A?style=for-the-badge&logo=OpenAI&logoColor=white"/>  
 
-#### 🛡️ DeepShield
-> A computer vision project that detects and prevents deepfake attacks.
-- Designed for high-security environments like banks and government agencies.
-- Focuses on facial forgery detection to ensure official integrity.
+> 💬 **AI-powered food chatbot** built with Django, WebSocket, and LangChain  
+> 🧠 On-machine LLM model for recommendations  
+> 📦 Every chat is stored and passed to a RAG pipeline  
+<br>
 
-#### 🎮 2D Car Game
-> My first project at the age of 15!
-- Built using Python and Pygame.
-- Player chases a car using arrow keys with increasing difficulty levels.
-- Assets include roads, cars, and custom backgrounds.
+  </td>
+  <td width="50%" valign="top">
+    
+### 🛡️ DeepShield  
+<img src="https://img.shields.io/badge/OpenCV-27338e?style=for-the-badge&logo=opencv&logoColor=white"/>  
+<img src="https://img.shields.io/badge/Security-AI-critical-red?style=for-the-badge"/>  
 
-#### 🔐 Secured Django REST API
-> A reusable RESTful API template.
-- Features full JWT authentication and role-based access control.
-- Suitable for CRUD operations across various projects.
+> 🧪 Detects and prevents deepfake attacks  
+> 🏛️ Designed for banks & government integrity  
+> 🎯 Focuses on facial forgery detection  
+<br>
+
+  </td>
+  </tr>
+
+  <tr>
+    <td width="50%" valign="top">
+    
+### 🎮 2D Car Game  
+<img src="https://img.shields.io/badge/Pygame-1e1e1e?style=for-the-badge&logo=python&logoColor=white"/>  
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>  
+
+> 🚗 My first ever game at age 15  
+> 🕹️ Player chases a car using arrow keys  
+> 🧩 Built using images like cars, roads, and more  
+<br>
+
+    </td>
+    <td width="50%" valign="top">
+    
+### 🔐 Secured Django REST API  
+<img src="https://img.shields.io/badge/Django-REST-API-ffcc00?style=for-the-badge"/>  
+<img src="https://img.shields.io/badge/JWT-Secured-green?style=for-the-badge"/>  
+
+> 🔐 JWT-secured reusable REST template  
+> 🔁 Supports CRUD operations out-of-the-box  
+> 💼 Easily adaptable to multiple use cases  
+<br>
+
+    </td>
+  </tr>
+</table>
+
 
 ---
 

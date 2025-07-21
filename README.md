@@ -93,11 +93,9 @@ interests: Tech, Cars, Security, Growth
 
 ---
 ### Leetcode Activity
-<img src='https://activity-graph.herokuapp.com/graph?username=kaustubh-alt&theme=react-dark)](https://github.com/kaustubh-alt'
-/>
-
+<center>
 <img src="https://leetcard.jacoblin.cool/Kaustubh_64?theme=catppuccinMocha&font=Kosugi%20Maru&ext=heatmap" />
-
+</center>
 ## 🚀 Tech Stack & Tools
 
 <p align="center">

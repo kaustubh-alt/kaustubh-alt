@@ -5,8 +5,9 @@
 </h1>
 
 
+<img src="https://komarev.com/ghpvc/?username=kaustubh-alt&label=Profile+Views&color=00ffc8&style=flat-square" />
+
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=kaustubh-alt&label=Profile+Views&color=00ffc8&style=flat-square" />
   <img src="https://github-profile-trophy.vercel.app/?username=kaustubh-alt&theme=dracula&no-bg=true&no-frame=true&title=Stars,Commits,Repositories,PullRequest,Issues" />
 </p>
 
@@ -134,4 +135,6 @@ interests: Tech, Cars, Security, Growth
 <img src="https://img.shields.io/badge/2×%20Hackathon%20Finalist-FF69B4?style=for-the-badge&logo=devpost&logoColor=white" />
 
 </div>
+
+<img src="https://komarev.com/ghpvc/?username=kaustubh-alt&label=Profile+Views&color=00ffc8&style=flat-rounded" />
 

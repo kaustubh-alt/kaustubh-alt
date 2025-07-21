@@ -49,11 +49,11 @@
 
 ---
 
-## 🧠 About Me
+### 🧠 About Me
 <div align="center">
-  <img src="https://img.shields.io/badge/Backend%20Engineer-1f1f1f?style=for-the-badge&logo=python&logoColor=00F0FF" />
-  <img src="https://img.shields.io/badge/AI%20Builder-1f1f1f?style=for-the-badge&logo=pytorch&logoColor=FF61E6" />
-  <img src="https://img.shields.io/badge/Startup%20Enthusiast-1f1f1f?style=for-the-badge&logo=indie-hackers&logoColor=ffffff" />
+  <img src="https://img.shields.io/badge/Backend%20Engineer-purple?style=for-the-badge&logo=python&logoColor=00F0FF" />
+  <img src="https://img.shields.io/badge/AI%20Builder-darkblue?style=for-the-badge&logo=pytorch&logoColor=FF61E6" />
+  <img src="https://img.shields.io/badge/Startup%20Enthusiast-white?style=for-the-badge&logo=indie-hackers&logoColor=black" />
 </div>
 
 <details open>
@@ -71,7 +71,7 @@ interests: Tech, Cars, Security, Growth
 
 ---
 
-## 🔗 Let's Connect
+### 🔗 Let's Connect
 
 <p align="center">
   <a href="https://linkedin.com/in/kaustubh-gadhave" target="_blank">
@@ -86,9 +86,9 @@ interests: Tech, Cars, Security, Growth
   <a href="https://www.hackerrank.com/kaustubh_backend" target="_blank">
     <img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" />
   </a>
-<!--   <a href="https://reddit.com/user/kaustubh-alt" target="_blank">
-    <img src="https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white" />
-  </a> -->
+  <a href="[https://reddit.com/user/kaustubh-alt](https://www.upwork.com/freelancers/~01a4d2a53ec0afeb36)" target="_blank">
+    <img src="https://img.shields.io/badge/Upwork-black?style=for-the-badge&logo=upwork&logoColor=green" />
+  </a>
 </p>
 
 ---
@@ -96,7 +96,8 @@ interests: Tech, Cars, Security, Growth
 <div align="center">
 <img src="https://leetcard.jacoblin.cool/Kaustubh_64?theme=catppuccinMocha&font=Kosugi%20Maru&ext=heatmap" />
 </div>
-## 🚀 Tech Stack & Tools
+
+### 🚀 Tech Stack & Tools
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,java,django,flask,fastapi,postgres,mysql,redis,kafka,git,linux,gcp,aws,pytorch,js,html,CSS,bootstrap" />

@@ -16,7 +16,8 @@
 <table>
   <tr>
     <td align="center">
-      <img src="https://raw.githubusercontent.com/kaustubh-alt/kaustubh-alt/main/badges/2024-50.gif" width="150"/><br/>
+      
+  <img src="https://raw.githubusercontent.com/kaustubh-alt/kaustubh-alt/main/badges/2024-100-new.gif" width="150" alt="100-Day Streak Badge" />
       <b>🔥 50-Day Streak (2024)</b>
     </td>
     <td align="center">

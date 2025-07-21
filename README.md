@@ -1,77 +1,39 @@
-<!-- GitHub Profile README for Kaustubh Gadhave -->
+<h1 align="center">Hi 👋, I'm Kaustubh Gadhave</h1>
+<h3 align="center">A passionate Backend Engineering and AI enthusiast from India</h3>
 
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff0080,100:00ffff&height=180&section=header&text=Kaustubh%20Gadhave&fontSize=40&fontAlignY=35&desc=🚀+AI%2FBackend+Engineer+%7C+Tech+Artist&descAlignY=55&animation=fadeIn" />
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&center=true&vCenter=true&multiline=true&width=700&height=100&lines=🎮+Engineer+in+Mind+%26+Artist+in+Code;💻+Backend+%7C+AI+%7C+Django+Warrior;🚀+Building+Tech+with+Purpose+and+Passion" />
-</div>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=kaustubh-alt&label=Profile%20views&color=0e75b6&style=flat" alt="kaustubh-alt" /> </p>
 
----
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kaustubh-alt" alt="kaustubh-alt" /></a> </p>
 
-## 🧙 Character Stats – About Me
+- 🔭 I’m currently working on **Eatright**
 
-```yaml
-🧑 Name: Kaustubh Gadhave
-📍 Location: Mumbai, India
-🎓 Studying: B.Tech in Computer Engineering
-🏫 College: Final Year, Mumbai University
-💼 Role: Backend Engineer | AI Developer | Creative Technologist
-🎮 Channel: Drift Amazing (Gaming & Drift Edits)
-```
+- 🌱 I’m currently learning **AI, Langchain, Robust System design and security**
 
----
+- 👯 I’m looking to collaborate on **Reddit**
 
-## 🧩 Skill Tree
+- 🤝 I’m looking for help with **Distribution and market fit**
 
-```yaml
-Python            🔹🔹🔹🔹🔹
-Django            🔹🔹🔹🔹🔹
-AI / ML           🔹🔹🔹🔹
-Data Analytics    🔹🔹🔹🔹
-SQL & Databases   🔹🔹🔹🔹
-Web Dev (Fullstack) 🔹🔹🔹🔹
-JavaScript/HTML   🔹🔹🔹
-Git & GitHub      🔹🔹🔹🔹
-```
+- 👨‍💻 All of my projects are available at [--](--)
 
----
+- 💬 Ask me about **Django, AI, Security, Python, Startup, Tech and Cars**
 
-## 🏆 Achievements Unlocked
+- 📄 Know about my experiences [https://drive.google.com/file/d/17XcZQqmFmDydgu33FuaPjNXgqV0IO-jV/view?usp=sharing](https://drive.google.com/file/d/17XcZQqmFmDydgu33FuaPjNXgqV0IO-jV/view?usp=sharing)
 
-- 🥇 Gold Medalist – Intercollege High Jump 🏅  
-- 🏁 Led House Team to Victory as Sports Captain  
-- 📊 IPL Data Prediction Dashboard using Python  
-- 🎥 Built Netflix-style Video Streaming App with Kafka Integration  
-- 🧑‍💻 Developed Full Stack Projects using Django & PHP  
-- 🎮 YouTube Drift Channel: [@driftamazing](https://youtube.com/@driftamazing)  
+- ⚡ Fun fact **I dont learn something instead ii start building and learn while building which is more effective**
 
----
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/kaustubh-gadhave" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="kaustubh-gadhave" height="30" width="40" /></a>
+<a href="https://www.youtube.com/c/byte_overload" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="byte_overload" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/kaustubh_backend" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="kaustubh_backend" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/kaustubh_64" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="kaustubh_64" height="30" width="40" /></a>
+</p>
 
-## 💖 Passion Buffs
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a> <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://kafka.apache.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/apache_kafka/apache_kafka-icon.svg" alt="kafka" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://redis.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="40"/> </a> <a href="https://www.selenium.dev" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" width="40" height="40"/> </a> <a href="https://zapier.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/zapier/zapier-icon.svg" alt="zapier" width="40" height="40"/> </a> </p>
 
-> I don't just code — I craft experiences.  
-> Tech is my playground. I love combining backend power with real-world innovation.  
-> Obsessed with **problem-solving**, **system design**, and creating tools that matter.
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=kaustubh-alt&show_icons=true&locale=en&layout=compact" alt="kaustubh-alt" /></p>
 
----
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kaustubh-alt&show_icons=true&locale=en" alt="kaustubh-alt" /></p>
 
-## 📊 Analytics Dashboards
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=kaustubhgadhave&show_icons=true&theme=tokyonight&rank_icon=github" /><br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kaustubhgadhave&theme=tokyonight" /><br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kaustubhgadhave&layout=compact&theme=tokyonight" />
-</div>
-
----
-
-## 📫 Connect with Me
-
-- 🔗 [LinkedIn](https://linkedin.com/in/kaustubhgadhave)
-- 🎮 [YouTube - Drift Amazing](https://youtube.com/@driftamazing)
-- 📬 Email: kaustubh@example.com *(replace with your real one)*
-
----
-
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=00ffff,ff0080&height=100&section=footer"/>
-</div>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kaustubh-alt&" alt="kaustubh-alt" /></p>

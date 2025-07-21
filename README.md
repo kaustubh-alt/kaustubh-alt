@@ -6,7 +6,7 @@
 </h1>
 
 
-<img src="https://komarev.com/ghpvc/?username=kaustubh-alt&label=Profile+Views&color=00ffc8&style=flat-square" />
+
 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=kaustubh-alt&theme=dracula&no-bg=true&no-frame=true&title=Stars,Commits,Repositories,PullRequest,Issues" />

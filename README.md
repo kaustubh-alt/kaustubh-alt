@@ -93,9 +93,9 @@ interests: Tech, Cars, Security, Growth
 
 ---
 ### Leetcode Activity
-<center>
+<div align="center">
 <img src="https://leetcard.jacoblin.cool/Kaustubh_64?theme=catppuccinMocha&font=Kosugi%20Maru&ext=heatmap" />
-</center>
+</div>
 ## 🚀 Tech Stack & Tools
 
 <p align="center">

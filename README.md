@@ -1,74 +1,81 @@
-<!-- Modern GitHub README by Kaustubh Gadhave -->
+<!-- 🌐 Modern 3D-Style GitHub README by Kaustubh Gadhave -->
 
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Hey+👋,+I'm+Kaustubh+Gadhave!;Backend+Engineer+%26+AI+Enthusiast;Building+Eatright+🚀&font=Fira+Code&center=true&width=600&height=50&duration=4000&pause=1000" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&pause=1000&color=00F0FF&center=true&vCenter=true&width=500&lines=Hey+👋+I'm+Kaustubh+Gadhave;Backend+%26+AI+Engineer;Builder+of+Eatright+🚀;Tech+%7C+Security+%7C+Startups+%7C+Cars" alt="Typing SVG" />
 </h1>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Backend%20Engineering-black?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/AI%20Developer-purple?style=for-the-badge&logo=pytorch&logoColor=white" />
-  <img src="https://img.shields.io/badge/India-🇮🇳-green?style=for-the-badge" />
+  <img src="https://komarev.com/ghpvc/?username=kaustubh-alt&label=Profile+Views&color=00ffc8&style=flat-square" />
+  <img src="https://github-profile-trophy.vercel.app/?username=kaustubh-alt&theme=dracula&no-bg=true&no-frame=true&title=Stars,Commits,Repositories,PullRequest,Issues" />
 </p>
 
 ---
 
-### 🚀 Projects & Focus
-- 🔭 Currently Building: **Eatright** (Food Discovery + AI)
-- ⚙️ Learning: `Langchain`, `Robust System Design`, `Security`
-- 🤝 Seeking Help: **Product Distribution** & **Market Fit**
-- 👯 Open to Collaboration: Anything interesting on **Reddit / OSS**
-- 💡 Ask Me About: `Django`, `Python`, `AI`, `Startups`, `Tech`, `Cars`
+## 🧠 About Me
+<div align="center">
+  <img src="https://img.shields.io/badge/Backend%20Engineer-1f1f1f?style=for-the-badge&logo=python&logoColor=00F0FF" />
+  <img src="https://img.shields.io/badge/AI%20Builder-1f1f1f?style=for-the-badge&logo=pytorch&logoColor=FF61E6" />
+  <img src="https://img.shields.io/badge/Startup%20Enthusiast-1f1f1f?style=for-the-badge&logo=indie-hackers&logoColor=ffffff" />
+</div>
+
+<details open>
+  <summary><strong>✨ Quick Bio (Click to expand)</strong></summary>
+
+```yaml
+name: Kaustubh Gadhave
+role: Backend Engineer | AI Enthusiast | Indie Hacker
+startup: Building 'Eatright' 🚀
+learning: Langchain, LLMOps, Distributed Systems, Security
+mindset: Build first, learn while building.
+interests: Tech, Cars, Security, Growth
+```
+</details>
 
 ---
 
-### 🧠 Philosophy
-> *I don’t learn first and build later. I build first and learn while doing. It’s faster, real, and more fun.*
-
----
-
-### 🔗 Connect With Me
-<p align="left">
-  <a href="https://linkedin.com/in/kaustubh-gadhave" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=flat&logo=linkedin&logoColor=white" height="30" /></a>
-  <a href="https://www.youtube.com/c/byte_overload" target="_blank"><img src="https://img.shields.io/badge/YouTube-%23FF0000.svg?style=flat&logo=youtube&logoColor=white" height="30" /></a>
-  <a href="https://www.hackerrank.com/kaustubh_backend" target="_blank"><img src="https://img.shields.io/badge/HackerRank-%232EC866.svg?style=flat&logo=HackerRank&logoColor=white" height="30" /></a>
-  <a href="https://leetcode.com/kaustubh_64" target="_blank"><img src="https://img.shields.io/badge/LeetCode-%23FFA116.svg?style=flat&logo=leetcode&logoColor=black" height="30" /></a>
-<!--   <a href="https://www.reddit.com/user//" target="_blank">
-    <img src="https://img.shields.io/badge/Reddit-%23FF4500.svg?style=flat&logo=reddit&logoColor=white" height="30" />
-  </a> -->
-</p>
-
----
-
-### 🛠️ Skills & Tools
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,django,flask,js,php,java,postman,postgres,mysql,redis,aws,gcp,linux,git,selenium,arduino,pytorch,kafka" />
-</p>
-
----
-
-### 📊 GitHub Stats
+## 🔗 Let's Connect
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=kaustubh-alt&show_icons=true&theme=radical&border_radius=10" width="49%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kaustubh-alt&theme=radical&border_radius=10" width="49%" />
+  <a href="https://linkedin.com/in/kaustubh-gadhave" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://www.youtube.com/c/byte_overload" target="_blank">
+    <img src="https://img.shields.io/badge/Youtube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />
+  </a>
+  <a href="https://leetcode.com/kaustubh_64" target="_blank">
+    <img src="https://img.shields.io/badge/Leetcode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
+  </a>
+  <a href="https://www.hackerrank.com/kaustubh_backend" target="_blank">
+    <img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" />
+  </a>
+  <a href="https://reddit.com/user/kaustubh-alt" target="_blank">
+    <img src="https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white" />
+  </a>
+</p>
+
+---
+
+## 🚀 Tech Stack & Tools
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,django,flask,fastapi,postgres,redis,kafka,git,linux,gcp,aws,pytorch,js,html,css" />
+</p>
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=kaustubh-alt&show_icons=true&theme=tokyonight&border_radius=12&hide_title=true" width="49%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=kaustubh-alt&theme=tokyonight&border_radius=12" width="49%" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kaustubh-alt&layout=compact&theme=radical&border_radius=10" width="60%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kaustubh-alt&layout=compact&theme=tokyonight&border_radius=12" width="60%" />
 </p>
 
 ---
 
-### 🏆 Trophies
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=kaustubh-alt&theme=gruvbox&margin-w=10&no-bg=true&row=1" />
+  <b>“Execution beats perfection — Always ship fast.”</b>
 </p>
-
----
-
-### 📄 Resume
-[📄 View My Resume](https://drive.google.com/file/d/17XcZQqmFmDydgu33FuaPjNXgqV0IO-jV/view?usp=sharing)
-
----
-
-> Made with 💻 by [Kaustubh Gadhave](https://github.com/kaustubh-alt)
